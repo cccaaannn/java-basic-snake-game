@@ -1,0 +1,5 @@
+tarkan=260
+erkut=150
+cemal=100
+xd=1
+
